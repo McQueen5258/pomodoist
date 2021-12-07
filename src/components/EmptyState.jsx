@@ -5,7 +5,7 @@ function EmptyState() {
   return (
     <div className="empty-state-container">
       <EmptyStateIllustration />
-      <p className="empty-state-text">Your todolist is empty</p>
+      <p className="empty-state-text">Your todolist is empty test1</p>
     </div>
   );
 }
